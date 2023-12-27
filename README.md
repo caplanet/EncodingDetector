@@ -1,0 +1,2 @@
+# EncodingDetector
+Encoding Detector
